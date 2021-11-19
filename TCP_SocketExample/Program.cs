@@ -25,6 +25,7 @@ namespace TCP_SocketExample
                 Console.WriteLine("Unexpected input..");
             }
         }
+        
         private static void Client()
         {
             //Create a Socket
