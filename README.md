@@ -1,1 +1,1 @@
-# TCP (Transmission Control Protocol) Socket Example
+# Socket Example - TCP (Transmission Control Protocol)
