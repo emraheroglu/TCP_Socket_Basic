@@ -25,7 +25,7 @@ namespace TCP_SocketExample
                 Console.WriteLine("Unexpected input..");
             }
         }
-        void Client()
+        private static void Client()
         {
             //Create a Socket
             IPEndPoint clientEndPoint = new System.Net.IPEndPoint(System.Net.IPAddress.Loopback, 0);
@@ -52,7 +52,7 @@ namespace TCP_SocketExample
 
         }
 
-        void Server()
+        private static void Server()
         {
             
             //Create a Socket
