@@ -1,0 +1,4 @@
+C:\Users\emrhe\source\repos\TCP_SocketExample\TCP_SocketExample\obj\Debug\netcoreapp3.1\TCP_SocketExample.csprojAssemblyReference.cache
+C:\Users\emrhe\source\repos\TCP_SocketExample\TCP_SocketExample\obj\Debug\netcoreapp3.1\TCP_SocketExample.AssemblyInfoInputs.cache
+C:\Users\emrhe\source\repos\TCP_SocketExample\TCP_SocketExample\obj\Debug\netcoreapp3.1\TCP_SocketExample.AssemblyInfo.cs
+C:\Users\emrhe\source\repos\TCP_SocketExample\TCP_SocketExample\obj\Debug\netcoreapp3.1\TCP_SocketExample.csproj.CoreCompileInputs.cache
